@@ -1,1 +1,1 @@
-##  pratice blurry loading project
+##  pratice blurry loading page project
